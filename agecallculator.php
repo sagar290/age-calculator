@@ -9,6 +9,8 @@
      <h2>Age Callculator</h2>
      <?php
 
+     
+
 
      if (!isset($_POST['submit'])) {
 
